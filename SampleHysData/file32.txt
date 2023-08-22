@@ -1,0 +1,67 @@
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»» I/V «««««««««««««««««««««««««««««««««««
+»»»  Executed Version:	5.12.0
+»»»  Vision Version:	5.12.5 (R)
+»»»	 Vision Compiled:	2/24/17
+»»»  Driver Version:	5.12.4
+»»»  Windows Version:	Windows 7
+»»»  Processor Information:	x86 (AMD or Intel) - 2 Processors
+»»»  Tester Name:	PMF0910-256
+»»»  Tester S/N:	PMF0910-256
+»»»  Internal Amp Type:	 RTI 100V      
+»»»  Internal Amp Serial:	 iAB1-0000     
+»»»  Execution Count:	1
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»««««««««««««««««««««««««««««««««««««««
+
+Stored:	6/21/2017 - 9:4:47
+Configured:	06/21/17 09:03:18 AM
+Executed:	06/21/17 09:04:06 AM
+
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»» Sample Info ««««««««««««««««««««««««««««««««
+Sample Name:	63
+Lot Name:	
+Wafer Name:	
+Die Row/Column:	1/1
+Capacitor Number:	1
+Sample Area (cm2):	7.85e-005
+Sample Thickness (µm):	1.00e-001
+Mux Loop Adjustment:	Disabled
+
+Amplifier:	Internal
+
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»» Tester Info «««««««««««««««««««««««««««««««««««
+Tester Name:	PMF0910-256
+Tester Serial Number:	PMF0910-256
+Return Signal Amp. Level:	100.0 [Index: 0]
+
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»» I/V Info ««««««««««««««««««««««««««««««««««
+Task Name:	IV
+Max Volts:	4.00
+Soak Time (ms):	1.00
+Measure Time (ms):	1.00
+Step Delay (ms):	0
+Preset Monopolar Triangle Volts:	5.00
+Preset Period (ms):	2.00
+Profile:	Unswitched Triangular
+Plot:	ERROR - Unknown Plot Parameter
+
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»» Data «««««««««««««««««««««««««««««««««««
+Points:	10
+
+Valid Data
+
+Point	Drive Voltage	Current (Amps)	Resistance (Ohms)	Resistivity (Ohms·cm)
+     1	0.000000	2.336262443416e-011	6.85785e+007	5.38615e+008
+     2	2.000000	4.393154188442e-010	4.55664e+009	3.57878e+010
+     3	4.000000	2.113790808965e-010	1.89245e+010	1.48633e+011
+     4	2.000000	2.370242547435e-010	8.43944e+009	6.62833e+010
+     5	0.000000	1.933510046325e-011	4.34047e+007	3.40900e+008
+     6	0.000000	1.975143030943e-011	2.31762e+007	1.82026e+008
+     7	-2.000000	8.998916427887e-012	2.22347e+011	1.74632e+012
+     8	-4.000000	6.139214474415e-011	6.51639e+010	5.11797e+011
+     9	-2.000000	3.044944932899e-011	6.57192e+010	5.16159e+011
+    10	0.000000	4.104891190827e-011	1.11517e+007	8.75852e+007
+
+
+
+I/V Version: 5.12.0 - Radiant Technologies, Inc., 2001 - 11/30/16
+

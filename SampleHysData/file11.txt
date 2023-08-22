@@ -1,0 +1,67 @@
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»» I/V «««««««««««««««««««««««««««««««««««
+»»»  Executed Version:	5.16.2
+»»»  Vision Version:	5.16.10 (R)
+»»»	 Vision Compiled:	4/26/18
+»»»  Driver Version:	5.16.6
+»»»  Windows Version:	Windows 8
+»»»  Processor Information:	x86 (AMD or Intel) - 8 Processors
+»»»  Tester Name:	PPM21016-863
+»»»  Tester S/N:	PPM21016-863
+»»»  Internal Amp Type:	 RTI ML200V    
+»»»  Internal Amp Serial:	 iAB2-0000     
+»»»  Execution Count:	1
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»««««««««««««««««««««««««««««««««««««««
+
+Stored:	5/8/2018 - 14:20:1
+Configured:	05/08/18 02:10:25 PM
+Executed:	05/08/18 02:19:20 PM
+
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»» Sample Info ««««««««««««««««««««««««««««««««
+Sample Name:	Internal Reference Cap.
+Lot Name:	N/A
+Wafer Name:	N/A
+Die Row/Column:	0/0
+Capacitor Number:	0
+Sample Area (cm2):	7.85e-005
+Sample Thickness (µm):	8.00e-002
+Mux Loop Adjustment:	Disabled
+
+Amplifier:	Internal
+
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»» Tester Info «««««««««««««««««««««««««««««««««««
+Tester Name:	PPM21016-863
+Tester Serial Number:	PPM21016-863
+Return Signal Amp. Level:	100.0 [Index: 0]
+
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»» I/V Info ««««««««««««««««««««««««««««««««««
+Task Name:	I/V-2
+Max Volts:	2.40
+Soak Time (ms):	1.00
+Measure Time (ms):	1.00
+Step Delay (ms):	0
+Preset Pulse Volts:	2.40
+Preset Pulse Width (ms):	0.40
+Profile:	Unswitched Triangular
+Plot:	ERROR - Unknown Plot Parameter
+
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»» Data «««««««««««««««««««««««««««««««««««
+Points:	10
+
+Valid Data
+
+Point	Field (kV/cm)	Current (Amps)	Resistance (Ohms)	Resistivity (Ohms·cm)
+     1	0.000000	9.675176582303e-010	1.97138e+006	1.93541e+007
+     2	150.000000	7.537383815858e-010	1.59139e+009	1.56235e+010
+     3	300.000000	4.204578280358e-009	5.70674e+008	5.60259e+009
+     4	150.000000	1.550494945069e-009	7.73620e+008	7.59501e+009
+     5	0.000000	1.223007692393e-009	2.05861e+006	2.02104e+007
+     6	0.000000	3.777675629388e-009	1.21176e+005	1.18965e+006
+     7	-150.000000	6.481022857180e-009	1.84501e+008	1.81134e+009
+     8	-300.000000	5.306117683967e-009	4.52462e+008	4.44205e+009
+     9	-150.000000	4.604694446980e-009	2.60792e+008	2.56032e+009
+    10	0.000000	2.440282663315e-009	7.50345e+005	7.36652e+006
+
+
+
+I/V Version: 5.16.2 - Radiant Technologies, Inc., 2001 - 3/16/18
+
